@@ -1,0 +1,5 @@
+javac Applicant.java ApplicantDao.java SBT.java ApplicantManager.java DataStore.java ECP.java ICS.java EEE.java BFE.java Launch.java
+
+C:\wamp64\bin\mysql\mysql5.7.24\bin
+
+mysql -u root -p -h localhost;
